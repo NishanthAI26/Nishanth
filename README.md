@@ -1,7 +1,7 @@
-# Semester Zero - Mari Nishanth
+# Semester Zero - Nishanth Boomi
 
 ## Name
-Mari Nishanth
+Nishanth Boomi
 
 ## Register Number
 RTC2026BAI068
